@@ -39,4 +39,4 @@ type Query {
   }
 `;
 
-module.exports = typeDefs;
+module.exports = typeDefs
